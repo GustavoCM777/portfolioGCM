@@ -37,6 +37,10 @@
 .contact__option a:hover{
     color:var(--color-white);
 }
+form{
+    margin-bottom: 8rem;
+}
+
 /*------------------------ F O R M ---------*/
 form{
     display: flex;
@@ -51,6 +55,9 @@ input, textarea{
     border: 2px solid var(--color-primary);
     resize: none;
     color: var(--color-primary);
+}
+form  .btn_send{
+    margin: 0rem 7rem;
 }
 /*------------MEDIUM DEVICES*/
 @media screen and (max-width:1024px) {

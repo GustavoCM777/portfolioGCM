@@ -38,6 +38,9 @@
 .experience__details div h4 {
     margin-top: 5px;
 }
+#experience{
+ margin-top: 8rem;
+}
 /*------------MEDIUM DEVICES*/
 @media screen and (max-width:1024px) {
    .experience__container{
