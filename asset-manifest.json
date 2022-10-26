@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolioGCM/static/css/main.e73f1416.css",
+    "main.css": "/portfolioGCM/static/css/main.44f34191.css",
     "main.js": "/portfolioGCM/static/js/main.121b519f.js",
     "static/media/GCM.png": "/portfolioGCM/static/media/GCM.2174fa9eb5eaf3f75413.png",
     "static/media/me.png": "/portfolioGCM/static/media/me.24b46a233f738cf4e9f6.png",
     "static/media/CV_2022_GCM.pdf": "/portfolioGCM/static/media/CV_2022_GCM.1ecca429082aa6034fd7.pdf",
     "index.html": "/portfolioGCM/index.html",
-    "main.e73f1416.css.map": "/portfolioGCM/static/css/main.e73f1416.css.map",
+    "main.44f34191.css.map": "/portfolioGCM/static/css/main.44f34191.css.map",
     "main.121b519f.js.map": "/portfolioGCM/static/js/main.121b519f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e73f1416.css",
+    "static/css/main.44f34191.css",
     "static/js/main.121b519f.js"
   ]
 }
